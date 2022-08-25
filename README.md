@@ -29,4 +29,4 @@ I love networking, take part of a team and create community.
  ## 🔥 Github Stats
 
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=DanielDiezMiguel&theme=cobalt">
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDiezMiguel&theme=cobalt">
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDiezMiguel&layout=compact&hide_border=true&bg_color=094F59&text_color=E9E5D6&title_color=F2CF4F&langs_count=4&hide=Blade&theme=cobalt">

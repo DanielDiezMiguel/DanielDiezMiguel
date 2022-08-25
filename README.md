@@ -2,7 +2,7 @@
 
 ## ABOUT ME
 
-<img width="32px" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/> 
+<a href="https://www.linkedin.com/in/daniel-d%C3%ADez-miguel-644503207/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/></a> 
 
 Hi, I'm Daniel Díez aka KosMos, a passionate backend developer and specialised in API Development from spain. 
 </br></br>

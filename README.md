@@ -27,7 +27,6 @@ I love networking, take part of a team and create community.
 
 
 **LANGUAGES AND TOOLS:**
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"></code>
@@ -46,7 +45,7 @@ Spring Boot   20h   ████████████████████
 
 <!--END_SECTION:waka-->
 
- 🔥 GITHUB STATS
+ 🔥 **GITHUB STATS**
 
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=DanielDiezMiguel&hide_border=true&theme=cobalt">
 <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDiezMiguel&layout=compact&hide_border=true&langs_count=4&hide=Blade&theme=cobalt">

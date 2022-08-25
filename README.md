@@ -37,7 +37,6 @@ My passion for software lies with dreaming up ideas and making them come true. I
 
 
 Last Updated on 24/08/2022 17:02:22 UTC
-<!--END_SECTION:waka-->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>

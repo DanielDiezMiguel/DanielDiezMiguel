@@ -2,7 +2,8 @@
 
 ## ABOUT ME
 
-Hi, I'm Daniel Díez aka KosMos, a passionate backend developer and specialised in API Development from spain. </br>
+Hi, I'm Daniel Díez aka KosMos, a passionate backend developer and specialised in API Development from spain. 
+</br>
 My passion for software lies with dreaming up ideas and making them come true. I take great care in the experience, architecture, and code quality of the things I build. 
 
  <a href="https://www.linkedin.com/in/daniel-d%C3%ADez-miguel-644503207/">

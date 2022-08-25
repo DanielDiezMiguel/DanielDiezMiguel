@@ -31,8 +31,7 @@
 <img align="left" width="44%" src="https://github-readme-stats.vercel.app/api?username=DanielDiezMiguel&hide_border=true&theme=cobalt">
 <img align="right" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDiezMiguel&layout=compact&hide_border=true&langs_count=4&hide=Blade&theme=cobalt"> </br>
 
-<a href="https://www.linkedin.com/in/daniel-d%C3%ADez-miguel-644503207/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/DanielDiezMiguel/DanielDiezMiguel/blob/main/Images/linkedin.png"/></a> 
-
 <p align="center">
+ <a href="https://www.linkedin.com/in/daniel-d%C3%ADez-miguel-644503207/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/DanielDiezMiguel/DanielDiezMiguel/blob/main/Images/linkedin.png"/></a> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>

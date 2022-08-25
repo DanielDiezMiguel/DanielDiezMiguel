@@ -19,9 +19,9 @@ I love networking, take part of a team and create community.
 
 - 🤝 I’ll help developers to **boost** their **carrers**
 
-- 📈 Ask me about **software development** **
+- 📈 Ask me about **software development**
 
-- 📫 Reach me out at[Linkedin](https://www.linkedin.com/in/daniel-d%C3%ADez-miguel-644503207/)**
+- 📫 Reach me out at **[Linkedin](https://www.linkedin.com/in/daniel-d%C3%ADez-miguel-644503207/)**
 </details>
 
 

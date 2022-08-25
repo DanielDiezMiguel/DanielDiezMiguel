@@ -32,8 +32,8 @@ My passion for software lies with dreaming up ideas and making them come true. I
 
  🔥 **GITHUB STATS**
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=DanielDiezMiguel&hide_border=true&theme=cobalt">
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDiezMiguel&layout=compact&hide_border=true&langs_count=4&hide=Blade&theme=cobalt"> </br>
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=DanielDiezMiguel&hide_border=true&theme=cobalt">
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDiezMiguel&layout=compact&hide_border=true&langs_count=4&hide=Blade&theme=cobalt"> </br>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>

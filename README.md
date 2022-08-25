@@ -9,6 +9,7 @@ My passion for software lies with dreaming up ideas and making them come true. I
 <p align="center">
   <a href="https://www.linkedin.com/in/daniel-d%C3%ADez-miguel-644503207/" src= "https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  </p>
   
 <!-- <a href="https://www.linkedin.com/in/daniel-d%C3%ADez-miguel-644503207/"/>SOCIAL MEDIA
   <img align="left" height="20" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>

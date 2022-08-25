@@ -11,10 +11,6 @@ My passion for software lies with dreaming up ideas and making them come true. I
   <summary style="color:#E9E5D6">
     More about me
   </summary>
-  
-- 🌱  I’m currently learning about **project management** 
-
-- 📈  Ask me about **software development**
 
 - <a href="https://www.linkedin.com/in/daniel-d%C3%ADez-miguel-644503207/">
   <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>Reach me out 

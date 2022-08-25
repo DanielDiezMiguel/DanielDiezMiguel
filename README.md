@@ -9,7 +9,7 @@ Hi, I'm Daniel Díez aka KosMos, a passionate backend developer and specialised 
 My passion for software lies with dreaming up ideas and making them come true. I take great care in the experience, architecture, and code quality of the things I build.
 </br></br>
 
-**LANGUAGES AND TOOLS**
+** 📈 LANGUAGES AND TOOLS**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>

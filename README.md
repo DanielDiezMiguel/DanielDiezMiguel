@@ -1,6 +1,6 @@
 
 
-## [+] ABOUT ME
+## ABOUT ME
 
 Hi 👋🏻, I am Daniel Díez, **Backend** developer.   
 I specialise in API Development like employee adding value and innovating solutions to my projects.  

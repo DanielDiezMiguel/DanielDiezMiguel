@@ -8,6 +8,7 @@
 </br></br>
 
 **CONTACT**
+
 <a href="https://www.linkedin.com/in/daniel-d%C3%ADez-miguel-644503207/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/DanielDiezMiguel/DanielDiezMiguel/blob/main/Images/linkedin.png"/></a> </br></br>
 
 📈 **LANGUAGES AND TOOLS**

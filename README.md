@@ -19,8 +19,7 @@ I love networking, take part of a team and create community.
 
 - 🤝 I’ll help developers to **boost** their **carrers**
 
-- 📈 Ask me about **open source, software development and job availability**
-(https://www.linkedin.com/in/daniel-d%C3%ADez-miguel-644503207/)**
+- 📈 Ask me about **open source, software development and job availability **[Linkedin](https://www.linkedin.com/in/daniel-d%C3%ADez-miguel-644503207/)**
 </details>
 
 

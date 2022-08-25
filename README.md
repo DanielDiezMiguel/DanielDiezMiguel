@@ -16,7 +16,9 @@ My passion for software lies with dreaming up ideas and making them come true. I
 
 - 📈 Ask me about **software development**
 
-- 📫 Reach me out at **[Linkedin](https://www.linkedin.com/in/daniel-d%C3%ADez-miguel-644503207/)**
+- 📫 Reach me out at <a href="https://www.linkedin.com/in/daniel-d%C3%ADez-miguel-644503207/">
+  <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
   
 </details>
 </br>

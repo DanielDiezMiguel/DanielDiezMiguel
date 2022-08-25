@@ -2,9 +2,8 @@
 
 ## ABOUT ME
 
-Hi 👋🏻, I am Daniel Díez, **Backend** developer.   
-I specialise in API Development like employee adding value and innovating solutions to my projects.  
-I love networking, take part of a team and create community.  
+Hi, I'm Daniel Díez aka KosMos, a passionate backend developer and specialised in API Development from spain. 
+My passion for software lies with dreaming up ideas and making them come true. I take great care in the experience, architecture, and code quality of the things I build. 
 
 
 
@@ -13,11 +12,7 @@ I love networking, take part of a team and create community.
     More about me
   </summary>
   
-- 🔭 I’m currently on a journey to build **great** things
-
 - 🌱 I’m currently learning about **project management** 
-
-- 🤝 I’ll help developers to **boost** their **carrers**
 
 - 📈 Ask me about **software development**
 
@@ -36,7 +31,7 @@ I love networking, take part of a team and create community.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **WEEK PROGRESS:**
+📊 **WEEK PROGRESS**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
    20h   █████████████████████████   100.00 %

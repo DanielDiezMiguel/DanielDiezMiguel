@@ -40,7 +40,7 @@ I love networking, take part of a team and create community.
 <!--START_SECTION:waka-->
 
 ```text
-Spring Boot   20h   █████████████████████████   100.00 %
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>   20h   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

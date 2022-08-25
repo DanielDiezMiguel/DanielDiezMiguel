@@ -7,7 +7,7 @@ Hi, I'm Daniel Díez aka KosMos, a passionate backend developer and specialised 
 My passion for software lies with dreaming up ideas and making them come true. I take great care in the experience, architecture, and code quality of the things I build.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/daniel-d%C3%ADez-miguel-644503207/" src= "https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/></a>
+  <a href="https://www.linkedin.com/in/daniel-d%C3%ADez-miguel-644503207/" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   </p>
   
